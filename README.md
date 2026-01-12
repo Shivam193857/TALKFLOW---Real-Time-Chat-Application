@@ -71,13 +71,15 @@ Secure login and signup system.
 <img width="714" height="362" alt="image" src="https://github.com/user-attachments/assets/45c9fb65-6fa0-454e-af55-26987412b38b" />
 
 ### Real Time Chatting
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/real-time.PNG)
+<img width="1907" height="865" alt="image(3)" src="https://github.com/user-attachments/assets/5c22fad3-1c01-4745-9d2c-5a8d91f88294" />
 ### Search Users
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/search.PNG)
+<img width="1920" height="748" alt="image(2)" src="https://github.com/user-attachments/assets/fefd8d63-c7e3-4945-b9b7-0ffc9b962ca9" />
 ### Create Group Chats
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/new%20grp.PNG)
+<img width="1920" height="925" alt="image(1)" src="https://github.com/user-attachments/assets/49848ef8-3830-4fcb-a6f3-1987f6b9b4d2" />
+
 ### Add or Remove users from group
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/add%20rem.PNG)
+<img width="1920" height="940" alt="image" src="https://github.com/user-attachments/assets/21bbb4e1-60f5-4b5c-b1fd-f4479d3e3626" />
+
 ### View Other user Profile
 <img width="713" height="372" alt="image" src="https://github.com/user-attachments/assets/ce50b74f-bb6f-491e-882b-b3a356c249ff" />
 
