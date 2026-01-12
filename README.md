@@ -67,8 +67,9 @@ Start the Client
 
 ### Authenticaton
 Secure login and signup system.
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/login.PNG)
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/signup.PNG)
+<img width="718" height="380" alt="image" src="https://github.com/user-attachments/assets/373e7576-e124-4451-bdf9-77e3e35eff4e" />
+<img width="714" height="362" alt="image" src="https://github.com/user-attachments/assets/45c9fb65-6fa0-454e-af55-26987412b38b" />
+
 ### Real Time Chatting
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/real-time.PNG)
 ### One to One chat
@@ -81,7 +82,8 @@ Private messaging between two users.
 ### Add or Remove users from group
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/add%20rem.PNG)
 ### View Other user Profile
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/profile.PNG)
+<img width="713" height="372" alt="image" src="https://github.com/user-attachments/assets/ce50b74f-bb6f-491e-882b-b3a356c249ff" />
+
 
 
   
