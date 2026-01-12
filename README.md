@@ -72,9 +72,6 @@ Secure login and signup system.
 
 ### Real Time Chatting
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/real-time.PNG)
-### One to One chat
-Private messaging between two users.
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/mainscreen.PNG)
 ### Search Users
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/search.PNG)
 ### Create Group Chats
