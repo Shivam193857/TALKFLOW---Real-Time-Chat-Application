@@ -1,1 +1,87 @@
 # TALKFLOW---Real-Time-Chat-Application
+
+
+TalkFlow is a full-stack real-time messaging platform designed to provide fast, secure, and reliable communication between users. The application supports private chats, group conversations, typing indicators, user search, and real-time notifications. It is built using the MERN stack and WebSocket-based communication for instant message delivery.
+The platform ensures user data security by storing credentials and sensitive information in encrypted form inside a MongoDB database.
+
+## Tech Stack
+
+**Client:** React JS
+
+**Server:** Node JS, Express JS
+
+**Database:** Mongo DB
+  
+## Core Features
+
+- Secure user authentication (Login & Signup)  
+- Real-time one-to-one messaging  
+- Group chat functionality  
+- Instant message notifications  
+- User search and profile viewing  
+- Create, add, and remove users from groups  
+- Encrypted storage of user information  
+
+---
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone git@github.com:Shivam193857/TALKFLOW---Real-Time-Chat-Application.git
+```
+
+Go to the project directory
+
+```bash
+  cd TALKFLOW---Real-Time-Chat-Application
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+```bash
+  cd frontend/
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+Start the Client
+
+```bash
+  //open now terminal
+  cd frontend
+  npm start
+```
+
+  
+# Features
+
+### Authenticaton
+Secure login and signup system.
+![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/login.PNG)
+![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/signup.PNG)
+### Real Time Chatting
+![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/real-time.PNG)
+### One to One chat
+Private messaging between two users.
+![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/mainscreen.PNG)
+### Search Users
+![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/search.PNG)
+### Create Group Chats
+![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/new%20grp.PNG)
+### Add or Remove users from group
+![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/add%20rem.PNG)
+### View Other user Profile
+![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/profile.PNG)
+
+
+  
